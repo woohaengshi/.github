@@ -1,8 +1,8 @@
 
-![화면 캡처 2024-08-01 120933](https://github.com/user-attachments/assets/5bd9ef07-e411-42e3-a981-96db90e6ab57)
 
+<img width=700px src="https://github.com/user-attachments/assets/5bd9ef07-e411-42e3-a981-96db90e6ab57">
 <!--
-
+![화면 캡처 2024-08-01 120933](https://github.com/user-attachments/assets/5bd9ef07-e411-42e3-a981-96db90e6ab57)
 **Here are some ideas to get you started:**
 
 🙋‍♀️ A short introduction - what is your organization all about?
