@@ -1,4 +1,5 @@
-## Hi there 👋
+
+![화면 캡처 2024-08-01 120933](https://github.com/user-attachments/assets/5bd9ef07-e411-42e3-a981-96db90e6ab57)
 
 <!--
 
