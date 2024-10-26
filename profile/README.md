@@ -1,6 +1,13 @@
-<img width=500px src="https://github.com/user-attachments/assets/5bd9ef07-e411-42e3-a981-96db90e6ab57">
+
+<img width="1496" alt="스크린샷 2024-10-26 오후 12 06 18" src="https://github.com/user-attachments/assets/d545f9ba-f0e1-4ee9-b073-e558e66e6163">
+
+
 
 <!--
+<img width="1477" alt="스크린샷 2024-10-26 오후 12 03 57" src="https://github.com/user-attachments/assets/5fa68e32-c5f1-4933-9b56-07306e306334">
+<img width="1494" alt="스크린샷 2024-10-26 오후 12 03 49" src="https://github.com/user-attachments/assets/60d92a1b-3081-42fb-992c-3ac46eb65fc8">
+<img width="1482" alt="스크린샷 2024-10-26 오후 12 03 33" src="https://github.com/user-attachments/assets/e6adda66-8ed5-4610-86f7-8a376c0fdcfb">
+<img width="1475" alt="스크린샷 2024-10-26 오후 12 03 17" src="https://github.com/user-attachments/assets/7b87e7d8-4c35-406c-a5a9-64b96d71e50c">
 <img width=700px src="https://github.com/user-attachments/assets/5bd9ef07-e411-42e3-a981-96db90e6ab57">
 ![화면 캡처 2024-08-01 120933](https://github.com/user-attachments/assets/5bd9ef07-e411-42e3-a981-96db90e6ab57)
 **Here are some ideas to get you started:**
